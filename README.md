@@ -20,7 +20,7 @@ The custom keycaps were ordered via wasdkeyboards:
 https://www.wasdkeyboards.com/61-key-custom-cherry-mx-keycap-set.html
 
 In the [keycaps](keycaps/) directory there are two versions of the SVG files,
-based on the templated provided by wasd.  The "paths" version has been converted
+based on the template provided by wasd.  The "paths" version has been converted
 to paths and is suitable for submitting for an order.  The other version keeps
 the text elements as text for easier editing, but must be converted to paths
 before using for ordering.
