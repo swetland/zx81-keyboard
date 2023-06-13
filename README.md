@@ -27,3 +27,14 @@ before using for ordering.
 
 ![layout](images/keycaps-design.jpg)
 
+### Need a ZX81 to add a keyboard to?
+
+The ZX81+38 project is a modern recreation of the ZX81 mainboard using
+74xx series ICs, similar to the ZX80, instead of the (no longer manufactured)
+ULA used in vintage ZX81s.  Check it out:
+
+https://github.com/mahjongg2/ZX81plus38
+
+https://revspace.nl/ZX81plus38_simple_to_build_ZX-81_clone 
+
+https://forums.raspberrypi.com/viewtopic.php?t=254492
