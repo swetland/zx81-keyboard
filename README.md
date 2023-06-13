@@ -9,7 +9,7 @@ review any files before you use them to order hardware!
 
 The KiCAD files for the schematic and layout are provided.
 The [export](export/) directory contains PDF versions for convenient online
-viweing.  The [gerbers](gerbers/) directory contains the exported gerbers
+viewing.  The [gerbers](gerbers/) directory contains the exported gerbers
 I generated for an order of five PCBs from JLCPCB.
 
 ![schematic](export/zx81-kbd.schematic.png)
